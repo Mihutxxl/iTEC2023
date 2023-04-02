@@ -1,5 +1,5 @@
 
-const API_KEY= ''
+const API_KEY= ''     //enter your API_KEY
 const submitButton = document.querySelector('#submit')
 const outPutElement = document.querySelector('#txtOutput')
 const inputElement = document.querySelector('input')
